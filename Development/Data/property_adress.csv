@@ -1,0 +1,21 @@
+property_adress_id,country_country_id,city_city_id,zip,street,number
+1,1,17,1070,Stiftgasse,3
+2,2,19,10435,"Schönhauser Allee",19
+3,9,30,10435,"Blvd James Bourchier",100
+4,3,23,28012,"Rda. de Atocha",3
+5,20,56,1050,"Av. António Augusto de Aguiar","66 5E"
+6,5,21,75008,"Bd Haussmann",158
+7,5,21,94000,"Av. du Général de Gaulle",61
+8,2,40,60327,Europa-Allee,6
+9,2,40,60386,"Hanauer Landstraße",517-543
+10,1,17,1010,Judengasse,11
+11,1,17,1110,Thürnlhofstraße,30
+12,11,63,21143,Triangeln,2
+13,2,59,30163,"Lister Pl.",1
+14,2,53,44141,"Märkische Straße",73
+15,15,46,11474,Evelpidon,4
+16,4,47,90139,"Via Enrico Albanese",34
+17,4,22,184,"Via della Madonna dei Monti",108
+18,8,20,1148,"Ifjúság útja",1
+19,6,24,312,Dobra,55/56
+20,6,38,30302,"Bulwar Wołyński",4

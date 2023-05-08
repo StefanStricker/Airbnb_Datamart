@@ -1,0 +1,22 @@
+property_id,name,type,description,bathrooms,rooms,property_adress_property_adress_id,property_rules_property_rules_id,hosts_host_id
+1,"Apartment in Neubau",Apartment,"This studio is furnished and equipped with a modern kitchenette. The apartment includes other amenities such as two queen size bed, closet and a table with chair where you can work or enjoy your meal.",1,3,1,1,1
+2,"Private room at Penzlauer Berg",Room,"This small but nice private room has enough space for two people and is in the center of penzlauer berg ",1,1,2,3,2
+3,"Apartment in Sofia",Apartment,"This is the dream getaway place. Close to the ideal centre but away from the noisiness and traffic madness of the capital. This loft is amazing ",1,2,3,20,3
+4,"Nice Place to Stay",Apartment,"Hola. Beautiful apartment in one of the most exclusive neighborhoods of Madrid.  ",2,3,4,19,4
+5,"Apartment with private parking",Apartment,"Our charming Apartment is within walking distance of all major points of interests in Lisbon  ",1,2,5,18,5
+6,"Loft in Paris near Eifel Tower",Apartment,"Gorgeous Loft entirely renovated and fully equipped in the heart of the embassies area. The flat is calm and very safe in 16th district of Paris with security guard 24/7.",1,2,6,7,6
+7,"Big House in Paris",House,"Garden, barbecue, ping pong table, bicycles, outdoor games for children available.
+Free parking at the entrance of the property and then in a covered and secure box, desk with fiber connection, TV, DVD player and NETFLIX",2,5,7,13,7
+8,"Apartment am Main",Apartment,"Nice Apartment with Balcony next to the Main",1,2,8,2,8
+9,"Double-Bed Room",Hotel,"Facilities at the property include a restaurant, a 24-hour front desk and room service, as well as free WiFi throughout the property.",1,2,9,12,9
+10,"Condo in Vienna Center",Apartment,"There is also a multy-storey car park, which costs €5 per day. In the area we also have a supermarket, a restaurant and a gym.",1,2,10,4,10
+11,"Cozy Home",Apartment,"There is also a multy-storey car park, which costs €5 per day. In the area we also have a supermarket, a restaurant and a gym.",1,1,11,10,11
+12,Townhouse,House,"Experience the local feeling with high standard and great location!",2,4,12,5,12
+13,"Cozy old building apartment",Apartment,"We rent our cozy old apartment in the heart of Hanover.",1,3,13,6,13
+14,"Apartment in Dortmund",Apartment,"In the apartment there are four beds, a small kitchen, dining table and chairs of course also and a TV with Netflix account.",1,3,14,15,14
+15,"Condo in Athens",Apartment,"It is an ideal overnight stay between flights or a short stay. ",1,2,15,11,15
+16,"Nice Cabin",House,"Recently renovated, immersed in greenery and surrounded by a beautiful natural landscape.",2,3,16,14,16
+17,"Big House in Rome",House,"This House offers a enough space for up to 9 people.",2,5,17,16,17
+18,"Cozy Apartment",Apartment,"Cozy Apartment for a holiday trip!",1,2,18,9,18
+19,"Nice Apartment in Center of Warsaw",Apartment,NULL,1,2,19,17,19
+20,"Apartment in Krakow",Apartment,NULL,1,2,20,8,20

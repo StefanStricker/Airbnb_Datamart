@@ -1,0 +1,21 @@
+guest_adress_id,country_country_id,city_city_id,zip,street,number,guests_guest_id
+1,1,17,1170,Jörgerstraße,27/14,1
+2,1,17,1010,Opernring,2/13,2
+3,2,19,10969,"Alexandrinenstraße ",118-121,3
+4,2,19,10969,"Kopenhagenerstraße ",72,4
+5,13,18,10000,"Ul. Ivana Kukuljevića ",5,5
+6,4,29,10000,"Piazza Castello",5,6
+7,2,28,80638,"Schloß Nymphenburg",1,7
+8,2,40,60323,Wiesenau,1,8
+9,6,38,31535,"Gęsia ",22,9
+10,3,41,41006,"Calle Cortegana ",66,10
+11,8,20,1108,Kozma,8-10,11
+12,12,34,1071,Museumplein,6,12
+13,5,21,75007,"Av. Anatole France",5,13
+14,11,33,11825,Kajplats,13,14
+15,3,27,8029,"Avinguda Diagonal",56,15
+16,18,51,8243,"S Circular Rd",77,16
+17,5,36,13006,"Rue Fort du Sanctuaire",1-9,17
+18,9,64,9000,"Knyaz Boris I",152,18
+19,2,48,70173,Lautenschlagerstraße,12,19
+20,2,48,70173,Lautenschlagerstraße,12,20
