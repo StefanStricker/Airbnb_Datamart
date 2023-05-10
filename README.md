@@ -1,3 +1,6 @@
+Database for the Airbnb use case
+
+This database is designed for three different user groups: guests, hosts and administrators and is is tailored to meet the needs for functioning in the Airbnb use case. 
 
 
 ![image](https://user-images.githubusercontent.com/106347434/236837891-c31053e2-faa8-4c59-b6b5-df63b904c28b.png)
