@@ -8,7 +8,7 @@ This database is designed for three different user groups: guests, hosts and adm
 
 [Database ER-Diagram.pdf](https://github.com/StefanStricker/Airbnb_Datamart/files/11421580/Database.ER-Diagram.pdf)
 
-Installation:
+###### Installation:
 For the creation of this Database, I used MySQL Workbench Community Edition and I 
 recommend using it for opening this database schema.
 
