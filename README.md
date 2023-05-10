@@ -1,4 +1,4 @@
-Database for the Airbnb use case
+###Database for the Airbnb use case
 
 This database is designed for three different user groups: guests, hosts and administrators and is is tailored to meet the needs for functioning in the Airbnb use case. 
 
