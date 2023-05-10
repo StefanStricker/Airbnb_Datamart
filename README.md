@@ -7,9 +7,12 @@
 Installation:
 For the creation of this Database, I used MySQL Workbench Community Edition and I 
 recommend using it for opening this database schema.
+
 First, install MySQL Workbench Community Edition which is free to use. 
 You can find it on the website: https://dev.mysql.com/downloads/workbench/ 
+
 After you are finished with the installation, download the datamart.sql FIL in the 
 Development folder of this repository. 
+
 Open MySQL Workbench and click: File → Open SQL scripts → choose the datamart.sql 
 file
